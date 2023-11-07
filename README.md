@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:-
   - vincediegane@gmail.com;
   - <a href="https://twitter.com/Tweentyceent" alt="Vincent Diégane Faye">Vincent Diégane Faye</a>
-  
   [![](https://img.shields.io/twitter/follow/Tweentyceent?style=social)](https://twitter.com/Tweentyceent)
